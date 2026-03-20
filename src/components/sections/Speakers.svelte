@@ -29,7 +29,6 @@
       bio: 'Lead researcher at an anon ZK lab. Author of three widely-cited papers on recursive proof composition.',
       glow: 'cyan',
       photo: '/images/speakers/karl.jpeg',
-      workshopTag: 'WORKSHOP A',
     },
     {
       initials: 'CA',
@@ -41,7 +40,6 @@
       bio: 'Former DARPA contractor turned cypherpunk. Ships ZK-identity tooling for sovereign individuals.',
       glow: 'magenta',
       photo: '/images/speakers/caolan.jpeg',
-      workshopTag: 'WORKSHOP B',
     },
     {
       initials: 'QN',
@@ -63,6 +61,7 @@
       topic: 'Noise Protocol & covert mesh networking',
       bio: 'Wrote the first production Noise XX implementation in Rust. Deeply suspicious of TCP.',
       glow: 'none',
+      workshopTag: 'WORKSHOP A',
     },
     {
       initials: 'EK',
@@ -73,6 +72,7 @@
       topic: 'MPC wallets: the promise and the pitfall',
       bio: 'PhD in lattice-based cryptography. Builds threshold signature schemes that survive quantum adversaries.',
       glow: 'magenta',
+      workshopTag: 'WORKSHOP B',
     },
     {
       initials: 'GX',

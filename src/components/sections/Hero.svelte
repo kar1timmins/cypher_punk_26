@@ -28,7 +28,7 @@
     </div>
 
     <!-- Main title with decrypt mechanic -->
-    <h1 class="mb-4 text-5xl font-bold leading-tight md:text-7xl">
+    <h1 class="mb-4 text-5xl font-bold leading-tight md:text-7xl flex items-baseline justify-center">
       <DecryptText
         text="CYPHER"
         tag="span"

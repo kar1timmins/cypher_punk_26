@@ -2,6 +2,7 @@
   import CircuitMesh from './components/backgrounds/CircuitMesh.svelte';
   import Hero       from './components/sections/Hero.svelte';
   import About      from './components/sections/About.svelte';
+  import Speakers   from './components/sections/Speakers.svelte';
   import Schedule   from './components/sections/Schedule.svelte';
   import Register   from './components/sections/Register.svelte';
 </script>
@@ -21,6 +22,7 @@
 <main class="relative z-10 flex flex-col">
   <Hero />
   <About />
+  <Speakers />
   <Schedule />
   <Register />
 </main>
